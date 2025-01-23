@@ -1,0 +1,1 @@
+window.confirm("Welcome to the Website!!!");
